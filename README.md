@@ -341,15 +341,16 @@ pip install monai nibabel kagglehub tqdm matplotlib pandas shap scikit-learn
 
 If you use this code, architecture, or methodology in your research, please cite:
 
-```bibtex
-@misc{kabirhira2025hybridbraintumorSeg,
-  title     = {Boundary-Aware Hybrid 3D CNN–Transformer Network for Multi-Modal Brain Tumor Segmentation},
-  author    = {Irfanul Kabir Hira},
-  year      = {2025},
-  note      = {BraTS 2021 Dataset. Kaggle reproducible implementation with SHAP explainability.},
-  url       = {https://github.com/<your-username>/boundary-aware-hybrid-brain-tumor-segmentation}
+
+```
+@misc{yourlastname2025hybridbratseg,
+  title={Explainable Multi-Modal Hybrid Neural Network for Boundary-Aware Medical Image Segmentation},
+  author={Your Name},
+  year={2025},
+  note={BraTS 2021 Dataset, Kaggle Implementation}
 }
 ```
+
 
 ---
 
